@@ -39,4 +39,4 @@ Welcome to **Smart Daily Planner + Habit Tracker** – a simple, elegant, and mo
 
 ## 🧑‍💻 Author
 **Made with ❤️ by Khdxsohee**
-Visit My Website
+[Visit My Website](https://khalid-randhawa.web.app/smart-daily-planner/index.html)
